@@ -12,13 +12,13 @@ How to run?
 Ideally, This is how your eclipse project should look..!!
 
 
-*************************Project Setup
+**Project Setup**
 
 
 ![Screenshot 2021-03-22 at 8 48 07 PM](https://user-images.githubusercontent.com/13320662/112050814-8f6f9b00-8b51-11eb-820a-356779045f8c.png)
 
 
-******************************Results
+**Results**
 
 ![performanceParams_Teddy](https://user-images.githubusercontent.com/13320662/112051724-9814a100-8b52-11eb-811f-fd8f5acefa74.PNG)
 
